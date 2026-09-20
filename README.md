@@ -1,4 +1,4 @@
- Material Intelligence: ROI Calculator
+# Material Intelligence: ROI Calculator
 
 A web app that estimates the financial return of adopting material-tracking software.
 
@@ -13,3 +13,15 @@ A web app that estimates the financial return of adopting material-tracking soft
 
 ## Tech stack
 Next.js, React, Vercel
+
+## Run locally
+```bash
+git clone <your-repo-url>
+cd <your-repo-folder>
+npm install
+npm run dev
+```
+Open http://localhost:3000
+
+## Note
+Results are estimates based on the inputs and preset assumptions.
